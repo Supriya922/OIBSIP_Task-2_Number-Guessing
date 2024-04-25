@@ -1,1 +1,1 @@
-OIBSIP-Task2_OnlineExam
+OIBSIP-Task2_Number-Guessing
